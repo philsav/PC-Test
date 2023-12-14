@@ -1,4 +1,4 @@
-// Add social profile links after the title in single.php using ACF
+// Add social profile links after the title in fimctions.php using ACF
 
 function add_social_profile_links_after_title($title, $id) {
     // Check if it's a single post
