@@ -1,8 +1,8 @@
 <p><strong>1. </strong>I would copy the live site to the staging environment then make the updates to the staging. Once I test everything is working on the staging I can push those updates to the live and delete the staging environment. Im not sure how github would is being used used - if its being used as a backup then I can download the updated files and push it to the git repo.</p>
 <hr/>
-<strong>2. </strong The respons to this is in the functions.php file.
+<p><strong>2. </strong> The respons to this is in the functions.php file.</p>
 <hr/>   
-<strong>3. </strong  This is using wp_query and passing in parameters for the loop / query as the $args variable as described:
+<p><strong>3. </strong>  This is using wp_query and passing in parameters for the loop / query as the $args variable as described:</p>
    <ul>
      <li>It is requesting information from a Custom post type called 'disney'.</li>
      <li>The post status should be 'published', it will display 5 posts per page, and will be ordered by the post title.</li>
