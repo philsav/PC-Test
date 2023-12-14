@@ -1,4 +1,4 @@
-<p><strong>1. </strong>I would copy the live site to the staging environment then make the updates to the staging. Once I test everything is working on the staging I can push those updates to the live and delete the staging environment. Im not sure how github would is being used used - if its being used as a backup then I can download the updated files and push it to the git repo.</p>
+<p><strong>1. </strong>I would copy the live site to the staging environment then make the updates to the staging. Once I test everything is working on the staging I can push those updates to the live and delete the staging environment. Im not sure how github is being used used - if its being used as a backup then I can download the updated files and push it to the git repo.</p>
 <hr/>
 <p><strong>2. </strong> The respons to this is in the functions.php file.</p>
 <hr/>   
