@@ -8,5 +8,5 @@
      <li>The post status should be 'published', it will display 5 posts per page, and will be ordered by the post title.</li>
      <li>It further filters these posts only to display terms from two categories 'moveis' AND 'series.</li>
      <li>Not all movies or series will display only movie posts that contain the slugs 'el-gato-con-botas' OR 'blanca-nieves'. 	Series are filtered via an id to show only these four series posts 20,21,30,31.</li>
-     <li>There is also additional filtering done via two custom field properties 'year' and 'available. The year is looking for posts type with the 'year' value of '2000' OR 'available' value of '0'.</li>
+     <li>There is also additional filtering done via two custom field properties 'year' and 'available'. Only posts with the 'year' value of '2000' OR 'available' value of '0' will display.</li>
    </ul>
